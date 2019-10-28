@@ -1,0 +1,87 @@
+/*
+ * This CSS is created for Sellmark Websites. 08/27/2015
+ */
+
+h1
+{
+	
+	color: #0033CC;
+	font-size: 100px;
+	
+}
+h2
+{
+	color: #337ab7;
+}
+
+h3
+{
+	text-align: left;
+	color: black;
+	font-size: 50px
+	
+	
+}
+h4
+{
+	text-align: left;
+}
+ p
+ {
+ 	font-size: 15px;
+ 	
+ 
+ }
+
+
+
+/* This container will center the text */
+#wrapper 
+{
+	
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 10% 5%;
+	
+}
+
+#center
+{
+	max-width: 940px;
+	margin: 0 auto;
+	padding-left: 80px;
+}
+
+section
+{
+	max-width: 90%;
+	margin: 0 auto;
+	
+}
+#button1
+{
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 33% 5%;
+}
+.border
+{
+	border-bottom: 2px solid #4b5656;
+}
+.color
+{
+	color: #337ab7;
+}
+.padding
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.fafa_medium
+{
+	font-size: 30px;
+}
+.fa-color {
+  color: green;
+}
